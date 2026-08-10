@@ -1,108 +1,126 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=Samuel+Alexander+(Alex);Cyber+Security+Engineer;Penetration+Tester;AI+Security+Researcher" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=FF6600,00FF41,FF073A&center=true&vCenter=true&width=650&lines=whoami+%3D+Samuel+Alexander;root%40kali%3A~%23+penetration+tester;%5B%2B%5D+CTF+Player+%7C+AI+Security+Enthusiast;%5B%2B%5D+Breaking+things+to+build+better+ones" alt="Typing SVG" />
 </h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/whoami-security__engineer-00FF41?style=for-the-badge&logo=linux&logoColor=black&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/status-hunting__vulns-red?style=for-the-badge&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/STATUS-ACTIVE-00FF41?style=for-the-badge&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/ROLE-PENTESTER-FF073A?style=for-the-badge&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/UPTIME-24%2F7-FF6600?style=for-the-badge&labelColor=0d1117" />
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/samuel-alexander-v-2b25712a5"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:alexanderhere2005@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://medium.com/@alexanderhere2005"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
-  <a href="https://tryhackme.com"><img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=red" alt="TryHackMe" /></a>
+  <a href="https://linkedin.com/in/samuel-alexander-v-2b25712a5"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" /></a>
+  <a href="mailto:alexanderhere2005@gmail.com"><img src="https://img.shields.io/badge/Email-FF073A?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" /></a>
+  <a href="https://medium.com/@alexanderhere2005"><img src="https://img.shields.io/badge/Medium-FF6600?style=for-the-badge&logo=medium&logoColor=white&labelColor=0d1117" /></a>
 </p>
 
 ---
 
-### `> whoami`
+### `[root@SamAlex-22]# cat about_me.yaml`
 
+```yaml
+name: Samuel Alexander (Alex)
+role: Cyber Security Engineering Student | Penetration Tester | AI Security Enthusiast
+institution: Sri Krishna College of Engineering and Technology
+focus:
+  - Web Application Security
+  - Mobile Security
+  - Active Directory Exploitation
+  - Threat Detection & Response
+  - Cloud Security (AWS / Azure)
+  - AI-Powered Offensive Security
+
+currently_building:
+  - project: Gemini Red
+    desc: A containerized, autonomous penetration testing agent
+  - project: OneSense
+    desc: >
+      An on-device Synthetic Reality Shield protecting users from
+      AI-generated deepfake scams, fabricated news, and synthetic
+      personal-safety threats
+
+community:
+  - Volunteer Ambassador @ Hack for a Change (teaching cybersecurity to students)
+  - Active member — OWASP & DefCon Coimbatore
+
+methodology: >
+  Continuous, hands-on learning through TryHackMe, CTF competitions,
+  and custom Python tooling for security audits.
 ```
-Final-year B.E. Computer Science & Engineering (Cyber Security)
-Sri Krishna College of Engineering and Technology
-
-I study how complex systems fail — then engineer the fixes that make
-them resilient. Focused on web application security, offensive tooling,
-and the intersection of AI and security.
-```
-
-### `> currently_building`
-
-- 🔴 **Gemini Red** — a containerized, autonomous penetration testing agent
-- 🛡️ **OneSense** — an on-device Synthetic Reality Shield defending users against AI-generated deepfake scams, fabricated news, and synthetic personal-safety threats
-
-### `> community`
-
-- 🤝 Volunteer Ambassador at **Hack for a Change** — teaching cybersecurity fundamentals to local students
-- 🦉 Active member of **OWASP** & **DefCon Coimbatore**
-- 🏁 Continuous, hands-on learning through **TryHackMe**, CTF competitions, and custom Python security-automation tooling
 
 ---
 
-### `> technical_arsenal`
+### `nmap -sV skillset.local`
 
-**Security & Forensics**
-<p>
-  <img src="https://img.shields.io/badge/Web_AppSec-000000?style=flat-square&logo=owasp&logoColor=white" />
-  <img src="https://img.shields.io/badge/Threat_Detection-005571?style=flat-square&logo=elastic&logoColor=white" />
-  <img src="https://img.shields.io/badge/Active_Directory-0078D6?style=flat-square&logo=windows&logoColor=white" />
-  <img src="https://img.shields.io/badge/Mobile_Security-3DDC84?style=flat-square&logo=android&logoColor=black" />
-  <img src="https://img.shields.io/badge/AI_Security-412991?style=flat-square&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" />
-</p>
+<table align="center">
+<tr>
+<td valign="top" width="50%">
 
-**Cloud Infrastructure & DevOps**
-<p>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Azure-0089D6?style=flat-square&logo=microsoftazure&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
-</p>
+**🕸️ Offensive Security**
+![Web AppSec](https://img.shields.io/badge/-Web%20Application%20Security-0d1117?style=flat-square&logo=owasp&logoColor=00FF41)
+![Mobile Security](https://img.shields.io/badge/-Mobile%20Security-0d1117?style=flat-square&logo=android&logoColor=00FF41)
+![Active Directory](https://img.shields.io/badge/-Active%20Directory-0d1117?style=flat-square&logo=windows&logoColor=00FF41)
+![Threat Detection](https://img.shields.io/badge/-Threat%20Detection-0d1117?style=flat-square&logo=elastic&logoColor=00FF41)
+![AI Security](https://img.shields.io/badge/-AI%20Offensive%20Security-0d1117?style=flat-square&logo=openai&logoColor=00FF41)
+![Kali](https://img.shields.io/badge/-Kali%20Linux-0d1117?style=flat-square&logo=kalilinux&logoColor=00FF41)
 
-**Software Development**
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" />
-</p>
+</td>
+<td valign="top" width="50%">
 
----
+**🛠️ Languages & Frameworks**
+![Python](https://img.shields.io/badge/-Python-0d1117?style=flat-square&logo=python&logoColor=FF6600)
+![Java](https://img.shields.io/badge/-Java-0d1117?style=flat-square&logo=openjdk&logoColor=FF6600)
+![JavaScript](https://img.shields.io/badge/-JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=FF6600)
+![Django](https://img.shields.io/badge/-Django-0d1117?style=flat-square&logo=django&logoColor=FF6600)
+![JWT](https://img.shields.io/badge/-JWT-0d1117?style=flat-square&logo=jsonwebtokens&logoColor=FF6600)
+![Bash](https://img.shields.io/badge/-Bash-0d1117?style=flat-square&logo=gnubash&logoColor=FF6600)
 
-### `> github_analytics`
+</td>
+</tr>
+<tr>
+<td valign="top" width="50%">
 
-<table align="center" border="0" cellpadding="0" cellspacing="0">
-  <tr>
-    <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=SamAlex-22&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-    </td>
-    <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamAlex-22&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-    </td>
-  </tr>
+**☁️ Cloud & Infra**
+![AWS](https://img.shields.io/badge/-AWS-0d1117?style=flat-square&logo=amazon-aws&logoColor=FF073A)
+![Azure](https://img.shields.io/badge/-Azure-0d1117?style=flat-square&logo=microsoftazure&logoColor=FF073A)
+![Docker](https://img.shields.io/badge/-Docker-0d1117?style=flat-square&logo=docker&logoColor=FF073A)
+![Nginx](https://img.shields.io/badge/-Nginx-0d1117?style=flat-square&logo=nginx&logoColor=FF073A)
+![Git](https://img.shields.io/badge/-Git-0d1117?style=flat-square&logo=git&logoColor=FF073A)
+
+</td>
+<td valign="top" width="50%">
+
+**🔧 Tools**
+![Burp Suite](https://img.shields.io/badge/-Burp%20Suite-0d1117?style=flat-square&logo=burpsuite&logoColor=00FF41)
+![Wireshark](https://img.shields.io/badge/-Wireshark-0d1117?style=flat-square&logo=wireshark&logoColor=00FF41)
+![Metasploit](https://img.shields.io/badge/-Metasploit-0d1117?style=flat-square&logo=metasploit&logoColor=00FF41)
+![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-0d1117?style=flat-square&logo=elasticsearch&logoColor=00FF41)
+
+</td>
+</tr>
 </table>
 
+---
+
+### `./run_stats.sh --verbose`
+
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=SamAlex-22&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=SamAlex-22&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=FF6600&icon_color=00FF41&text_color=FFFFFF&border_color=FF073A" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamAlex-22&layout=compact&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=FF6600&text_color=FFFFFF&border_color=FF073A" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SamAlex-22&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
+  <img src="https://streak-stats.demolab.com/?user=SamAlex-22&hide_border=true&background=0D1117&ring=FF6600&fire=FF073A&currStreakLabel=00FF41&sideLabels=00FF41&sideNums=FFFFFF&dates=8B949E&stroke=0D1117" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SamAlex-22&hide_border=true&bg_color=0D1117&color=00FF41&line=FF6600&point=FF073A&area=true&area_color=FF6600" />
 </p>
 
 ---
 
 <p align="center">
-  <i>"Securing tomorrow's infrastructure by understanding today's vulnerabilities."</i>
+  <img src="https://komarev.com/ghpvc/?username=SamAlex-22&icon=terminal&color=FF6600&style=for-the-badge&label=CONNECTIONS" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SamAlex-22&style=flat-square&color=00FF41&label=PROFILE+VIEWS" />
-</p>
+<p align="center"><i>"Securing tomorrow's infrastructure by understanding today's vulnerabilities."</i></p>
