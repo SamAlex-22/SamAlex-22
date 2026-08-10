@@ -5,7 +5,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/STATUS-ACTIVE-00FF41?style=for-the-badge&labelColor=0d1117" />
   <img src="https://img.shields.io/badge/ROLE-PENTESTER-FF073A?style=for-the-badge&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/UPTIME-24%2F7-FF6600?style=for-the-badge&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/TryHackMe-TOP%203%25-FF6600?style=for-the-badge&logo=tryhackme&logoColor=white&labelColor=0d1117" />
 </p>
 
 <p align="center">
@@ -46,6 +46,9 @@ community:
 methodology: >
   Continuous, hands-on learning through TryHackMe, CTF competitions,
   and custom Python tooling for security audits.
+
+ranking:
+  - TryHackMe — Top 3% globally
 ```
 
 ---
@@ -136,7 +139,7 @@ methodology: >
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SamAlex-22&hide_border=true&bg_color=0D1117&color=00FF41&line=FF6600&point=FF073A&area=true&area_color=FF6600" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SamAlex-22&hide_border=true&bg_color=0D1117&color=00FF41&line=FF2E9F&point=FF073A&area=true&area_color=FF2E9F" />
 </p>
 
 ---
@@ -155,14 +158,14 @@ methodology: >
 <tr>
 <td valign="top" width="50%">
 
-- 📜 CERT_NAME_1 — Issuer, Year
-- 📜 CERT_NAME_2 — Issuer, Year
+- 📜 Certified Ethical Hacker (CEH) — Cisco
+- 📜 AI For App Building — Google
 
 </td>
 <td valign="top" width="50%">
 
-- 📜 CERT_NAME_3 — Issuer, Year
-- 📜 CERT_NAME_4 — Issuer, Year
+- 📜 Version Control — Meta
+- 📜 Google Cloud Computing Foundations — Google
 
 </td>
 </tr>
