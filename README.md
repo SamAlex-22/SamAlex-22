@@ -102,11 +102,33 @@ methodology: >
 
 ---
 
+### `ls -la ~/featured_projects/`
+
+<p align="center">
+  <a href="https://github.com/SamAlex-22/gemini-red">
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/pin/?username=SamAlex-22&repo=gemini-red&hide_border=true&bg_color=0D1117&title_color=FF6600&icon_color=00FF41&text_color=FFFFFF" />
+  </a>
+  <a href="https://github.com/SamAlex-22/onesense">
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/pin/?username=SamAlex-22&repo=onesense&hide_border=true&bg_color=0D1117&title_color=FF6600&icon_color=00FF41&text_color=FFFFFF" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/SamAlex-22/REPO_NAME_3">
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/pin/?username=SamAlex-22&repo=REPO_NAME_3&hide_border=true&bg_color=0D1117&title_color=FF6600&icon_color=00FF41&text_color=FFFFFF" />
+  </a>
+  <a href="https://github.com/SamAlex-22/REPO_NAME_4">
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/pin/?username=SamAlex-22&repo=REPO_NAME_4&hide_border=true&bg_color=0D1117&title_color=FF6600&icon_color=00FF41&text_color=FFFFFF" />
+  </a>
+</p>
+
+---
+
 ### `./run_stats.sh --verbose`
 
 <p align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=SamAlex-22&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=FF6600&icon_color=00FF41&text_color=FFFFFF&border_color=FF073A" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamAlex-22&layout=compact&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=FF6600&text_color=FFFFFF&border_color=FF073A" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=SamAlex-22&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FF6600&icon_color=00FF41&text_color=FFFFFF" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamAlex-22&layout=compact&hide_border=true&bg_color=0D1117&title_color=FF6600&text_color=FFFFFF" />
 </p>
 
 <p align="center">
