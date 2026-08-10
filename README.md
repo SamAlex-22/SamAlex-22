@@ -141,6 +141,59 @@ methodology: >
 
 ---
 
+### `cat trophies.log`
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=SamAlex-22&theme=algolia&no-frame=true&no-bg=true&row=1&column=6&title=Commits,Stars,Followers,Repositories,PullRequest,Issues" />
+</p>
+
+---
+
+### `cat certifications.txt`
+
+<table align="center">
+<tr>
+<td valign="top" width="50%">
+
+- 📜 CERT_NAME_1 — Issuer, Year
+- 📜 CERT_NAME_2 — Issuer, Year
+
+</td>
+<td valign="top" width="50%">
+
+- 📜 CERT_NAME_3 — Issuer, Year
+- 📜 CERT_NAME_4 — Issuer, Year
+
+</td>
+</tr>
+</table>
+
+---
+
+### `git log --oneline --graph timeline`
+
+```
+* 2026 — Final year, B.E. CSE (Cyber Security), Sri Krishna College of Engineering and Technology
+* 2025 — Started Gemini Red & OneSense; volunteering with Hack for a Change
+* 2024 — Joined OWASP & DefCon Coimbatore; active on TryHackMe / CTFs
+* 2023 — Began formal cybersecurity coursework
+```
+
+---
+
+### `curl -s api.support.me`
+
+<p align="center">
+  Found something useful in one of my repos? Consider starring it, or reach out if you'd like to collaborate on offensive security or AI-security tooling.
+</p>
+
+<p align="center">
+  <a href="https://github.com/SamAlex-22?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE_REPOS-0d1117?style=for-the-badge&logo=github&logoColor=00FF41&labelColor=0d1117" /></a>
+  <a href="mailto:alexanderhere2005@gmail.com"><img src="https://img.shields.io/badge/GET_IN_TOUCH-0d1117?style=for-the-badge&logo=gmail&logoColor=FF6600&labelColor=0d1117" /></a>
+</p>
+
+---
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=SamAlex-22&icon=terminal&color=FF6600&style=for-the-badge&label=CONNECTIONS" />
 </p>
