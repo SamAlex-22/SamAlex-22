@@ -254,7 +254,7 @@ methodology: Break → Analyze → Rebuild → Secure → Repeat
 <td valign="top" width="50%">
 
 **📜 Certifications**
-- 🏅 Certified Ethical Hacker (CEH) — Cisco
+- 🏅 Certified Penetration Testing Professional (CPENT) — EC-Council
 - 🏅 AI For App Building — Google
 - 🏅 Version Control — Meta
 - 🏅 Google Cloud Computing Foundations — Google
