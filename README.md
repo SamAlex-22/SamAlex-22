@@ -117,10 +117,10 @@ ranking:
 </p>
 
 <p align="center">
-  <a href="https://github.com/SamAlex-22/REPO_NAME_3">
+  <a href="https://github.com/SamAlex-22/Project-ODIN">
     <img height="160em" src="https://github-readme-stats.vercel.app/api/pin/?username=SamAlex-22&repo=REPO_NAME_3&hide_border=true&bg_color=0D1117&title_color=FF6600&icon_color=00FF41&text_color=FFFFFF" />
   </a>
-  <a href="https://github.com/SamAlex-22/REPO_NAME_4">
+  <a href="https://github.com/SamAlex-22/active-chain-directory">
     <img height="160em" src="https://github-readme-stats.vercel.app/api/pin/?username=SamAlex-22&repo=REPO_NAME_4&hide_border=true&bg_color=0D1117&title_color=FF6600&icon_color=00FF41&text_color=FFFFFF" />
   </a>
 </p>
