@@ -3,21 +3,27 @@
 #   https://raw.githubusercontent.com/SamAlex-22/SamAlex-22/output/github-snake-dark.svg
 #   https://raw.githubusercontent.com/SamAlex-22/SamAlex-22/output/github-snake.svg
 #
+# SETUP: Repo Settings → Actions → General → Workflow permissions → "Read and write permissions"
 # First run: Go to Actions tab → "Generate Snake" → "Run workflow"
 
 name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 6 * * *"       # daily at 6 AM UTC (11:30 AM IST)
-  workflow_dispatch:           # manual trigger
+    - cron: "0 6 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+
+permissions:
+  contents: write
 
 jobs:
   build:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
     steps:
+      - uses: actions/checkout@v4
+
       - name: Generate snake SVGs
         uses: Platane/snk@v3
         with:
@@ -27,10 +33,8 @@ jobs:
             dist/github-snake-dark.svg?palette=github-dark
 
       - name: Push to output branch
-        uses: crazy-max/ghaction-github-pages@v4
+        uses: JamesIves/github-pages-deploy-action@v4
         with:
-          target_branch: output
-          build_dir: dist
-          keep_history: true
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          branch: output
+          folder: dist
+          clean: false

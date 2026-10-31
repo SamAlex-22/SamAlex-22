@@ -2,21 +2,27 @@
 # Cards are referenced in README.md from:
 #   https://raw.githubusercontent.com/SamAlex-22/SamAlex-22/output/profile-summary-card-output/2077/*.svg
 #
+# SETUP: Repo Settings → Actions → General → Workflow permissions → "Read and write permissions"
 # First run: Go to Actions tab → "Profile Summary Cards" → "Run workflow"
 
 name: Profile Summary Cards
 
 on:
   schedule:
-    - cron: "0 6 * * *"       # daily at 6 AM UTC (11:30 AM IST)
-  workflow_dispatch:           # manual trigger
+    - cron: "0 6 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+
+permissions:
+  contents: write
 
 jobs:
   build:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
     steps:
+      - uses: actions/checkout@v4
+
       - uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
