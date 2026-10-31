@@ -1,0 +1,26 @@
+# Generates GitHub Profile Summary Cards and pushes them to the `output` branch.
+# Cards are referenced in README.md from:
+#   https://raw.githubusercontent.com/SamAlex-22/SamAlex-22/output/profile-summary-card-output/2077/*.svg
+#
+# First run: Go to Actions tab → "Profile Summary Cards" → "Run workflow"
+
+name: Profile Summary Cards
+
+on:
+  schedule:
+    - cron: "0 6 * * *"       # daily at 6 AM UTC (11:30 AM IST)
+  workflow_dispatch:           # manual trigger
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          USERNAME: SamAlex-22
+          BRANCH_NAME: output
+          UTC_OFFSET: 5.50

@@ -1,0 +1,36 @@
+# Generates the contribution snake animation and pushes SVGs to the `output` branch.
+# Referenced in README.md from:
+#   https://raw.githubusercontent.com/SamAlex-22/SamAlex-22/output/github-snake-dark.svg
+#   https://raw.githubusercontent.com/SamAlex-22/SamAlex-22/output/github-snake.svg
+#
+# First run: Go to Actions tab → "Generate Snake" → "Run workflow"
+
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 6 * * *"       # daily at 6 AM UTC (11:30 AM IST)
+  workflow_dispatch:           # manual trigger
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Generate snake SVGs
+        uses: Platane/snk@v3
+        with:
+          github_user_name: SamAlex-22
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+          keep_history: true
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
