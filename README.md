@@ -4,7 +4,7 @@
 <!-- ╚══════════════════════════════════════════════════════════════════╝ -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=FF6600,00FF41,FF073A&center=true&vCenter=true&repeat=true&width=720&lines=%24+whoami+%E2%86%92+Samuel+Alexander;root%40kali%3A~%23+./exploit.sh+--mode+offensive;%5B%2B%5D+CTF+Player+%7C+AI+Security+Researcher;%5B%E2%98%85%5D+TryHackMe+Top+3%25+%7C+OWASP+%7C+DefCon;%5B%2B%5D+Breaking+things+to+build+better+ones" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=FF6600,00FF41,FF073A&center=true&vCenter=true&repeat=true&width=720&lines=%24+whoami+%E2%86%92+Samuel+Alexander;root%40kali%3A~%23+./exploit.sh+--mode+offensive;%5B%2B%5D+CTF+Player+%7C+AI+Security+Researcher;%5B%E2%98%85%5D+TryHackMe+Top+2%25+%7C+OWASP+%7C+DefCon;%5B%2B%5D+Breaking+things+to+build+better+ones" alt="Typing SVG" />
 </h1>
 
 <p align="center">
